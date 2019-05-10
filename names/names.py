@@ -24,6 +24,7 @@ duplicates = []
 #         duplicates.append(name_1)
 
 # 2nd pass solution>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+# Note: my solution already appears to fulfill the requirements of the stretch goal.
 names_1.sort()
 names_2.sort()
 i = 0
